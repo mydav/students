@@ -1,0 +1,26 @@
+{
+  "1": {
+    "name": "Vadym",
+    "surname": "Bardukov",
+    "email": "19vad91@gmail.com",
+    "birthday": "07/09/1991"
+  },
+  "2": {
+    "name": "Random",
+    "surname": "User",
+    "email": "ru321@gmail.com",
+    "birthday": "17/11/1990"
+  },
+  "3": {
+    "name": "User",
+    "surname": "Random",
+    "email": "vv312@gmail.com",
+    "birthday": "11/10/1980"
+  },
+  "4": {
+    "name": "User11",
+    "surname": "Random123",
+    "email": "vv41312@gmail.com",
+    "birthday": "11/14/1980"
+  }
+}
